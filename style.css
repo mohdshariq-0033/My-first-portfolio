@@ -164,7 +164,7 @@ html{
 /*herosection start*/
 
 #herosection{
-    background-image: url("image1.png");
+    background-image: url("./homeIMG/image1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -304,7 +304,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(my\ photo.jpg);
+    background-image: url("./aboutIMG/my\ photo.jpg");
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -384,7 +384,7 @@ span{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("h.webp");
+    background-image: url("./serviceIMG/h.webp");
     position: relative;
     margin: 30px 30px 30px 30px;
     padding: 0px 30px 30px 30px;
@@ -437,7 +437,7 @@ span{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("c.jpg");
+    background-image: url("./serviceIMG/c.jpg");
     position: relative;
     margin: 30px 30px 30px 30px;
     padding: 0px 30px 30px 30px;
@@ -490,7 +490,7 @@ span{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("j.jpg");
+    background-image: url("./serviceIMG/j.jpg");
     position: relative;
     margin: 30px 30px 30px 30px;
     padding: 0px 30px 30px 30px;
@@ -543,7 +543,7 @@ span{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("p.jpg");
+    background-image: url("./serviceIMG/p.jpg");
     position: relative;
     margin: 30px 30px 30px 30px;
     padding: 0px 30px 30px 30px;
@@ -627,7 +627,7 @@ span{
    #pImg{
     height: 98%;
     width: 98%;
-    background-image: url("port.png");
+    background-image: url("./projectIMG/port.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -666,7 +666,7 @@ span{
    #pImg2{
     height: 98%;
     width: 98%;
-    background-image: url("game.jpg");
+    background-image: url("./projectIMG/game.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -681,7 +681,7 @@ span{
    #pImg3{
     height: 98%;
     width: 98%;
-    background-image: url("loader.webp");
+    background-image: url("./projectIMG/loader.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -800,7 +800,7 @@ span{
     height: 500px;
     border-radius: 5px;
     box-shadow: 0px 0px 5px 0.5px rgb(20, 155, 31);
-    background-image: url(contImage.jpg);
+    background-image: url("./contactIMG/contImage.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
